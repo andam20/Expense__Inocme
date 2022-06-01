@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/background.xml" value="0.126" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.126" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/ic_expense.xml" value="0.1095" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/ic_income.xml" value="0.1095" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/icon.xml" value="0.126" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/image.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/drawable/round_image.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/font/alegreya_sans_sc_thin.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/font/alex_brush.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/font/cutive.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_chart.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_display_expense.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_display_income.xml" value="0.2361111111111111" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_edit_diplay_expense.xml" value="0.23007246376811594" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_edit_diplay_income.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_first_home_page.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_forget.xml" value="0.264" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_home.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_login.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_my_profile.xml" value="0.176" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_splash.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_view_courses.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/activity_welcome.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/content_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/edit_activity.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/feedback_toolbar.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_about.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_chart.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_dashboard.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_expence.xml" value="0.11474164133738601" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_feedback.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_feedback_fragmentt.xml" value="0.11474164133738601" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_history.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/fragment_income.xml" value="0.264" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/nav_header.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/profile_toolbar.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/layout/recycler_view.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/menu/bottom_menu.xml" value="0.536" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/menu/bottommenu.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/menu/main_menu.xml" value="0.1962962962962963" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/Dor_mAsafa_java/app/src/main/res/menu/nav_menu.xml" value="0.22962962962962963" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_chart.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_display_expense.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_display_income.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_edit_diplay_expense.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_edit_diplay_income.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_first_home_page.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_forget.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_info.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_my_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_settings.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_signup.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/appbar_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_about.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_chart.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_dashboard.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_expence.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_feedback_fragmentt.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/fragment_income.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/nav_header.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/profile_toolbar.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/layout/recycler_view.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/menu/bottommenu.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/Desktop/expense&amp;income/app/src/main/res/menu/nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1255" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/drawer_menu.xml" value="0.1295" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/header_color.xml" value="0.1315" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1295" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/icon_user.xml" value="0.134" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/image.xml" value="0.132" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/round_image.xml" value="0.1315" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/rounded_button.xml" value="0.134" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/sign_up_btn.xml" value="0.134" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/drawable/splash_screen.xml" value="0.2025" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/font/font.xml" value="0.24444444444444444" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout-v26/activity_home.xml" value="0.11980749746707194" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_about.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_content.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_drawer.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_f1.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_f2.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_f3.xml" value="0.17074275362318841" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_first.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_forget.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_header.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_info.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_menu.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_settings.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_signup.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_splash.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/activity_welcome.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/content_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/first_page.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/fragment_about.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/fragment_account.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/fragment_blank.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/fragment_home.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/fragment_settings.xml" value="0.10677083333333333" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/header_file.xml" value="0.264" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/layout/settingsfragment.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/menu/drawre_menu.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/menu/menu.xml" value="0.2037037037037037" />
+        <entry key="..\:/Users/Andam/StudioProjects/Dor_mAsafa_java/app/src/main/res/menu/side_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
